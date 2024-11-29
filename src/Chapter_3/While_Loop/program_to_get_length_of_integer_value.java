@@ -1,15 +1,8 @@
-package Chapter_3;
+package Chapter_3.While_Loop;
 
-public class WhileLoop {
+public class program_to_get_length_of_integer_value {
     public static void main(String[] args) {
-        int i=0;
-        while(i<5)
-        {
-            System.out.println("Hello Aman, time = " +i);
-            i++;
-        }
-
-        // writing program to get length of integer value
+        //1. writing program to get length of integer value
         int intval=98756241,result=0;
         while(intval!=0)
         {
