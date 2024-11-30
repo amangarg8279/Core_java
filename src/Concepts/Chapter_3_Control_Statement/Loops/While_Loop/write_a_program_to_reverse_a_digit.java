@@ -1,4 +1,4 @@
-package Chapter_3.While_Loop;
+package Concepts.Chapter_3_Control_Statement.Loops.While_Loop;
 
 public class write_a_program_to_reverse_a_digit {
     public static void main(String[] args) {
@@ -8,6 +8,7 @@ public class write_a_program_to_reverse_a_digit {
             rem=n%10;
             rev=rev*10+rem;
             n=n/10;
+
         }
         System.out.println("reverse of "+ornumber+" is : "+rev);
     }

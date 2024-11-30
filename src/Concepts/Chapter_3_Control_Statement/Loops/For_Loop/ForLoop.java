@@ -1,4 +1,4 @@
-package Chapter_3;
+package Concepts.Chapter_3_Control_Statement.Loops.For_Loop;
 
 public class ForLoop {
 

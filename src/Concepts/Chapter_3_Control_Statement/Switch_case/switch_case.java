@@ -1,4 +1,4 @@
-package Chapter_3;
+package Concepts.Chapter_3_Control_Statement.Switch_case;
 
 import java.util.Scanner;
 
