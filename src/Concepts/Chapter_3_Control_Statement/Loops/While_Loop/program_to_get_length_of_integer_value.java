@@ -1,4 +1,4 @@
-package Chapter_3.While_Loop;
+package Concepts.Chapter_3_Control_Statement.Loops.While_Loop;
 
 public class program_to_get_length_of_integer_value {
     public static void main(String[] args) {

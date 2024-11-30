@@ -1,4 +1,4 @@
-package Chapter_3.do_while;
+package Concepts.Chapter_3_Control_Statement.Loops.do_while;
 
 import java.util.Scanner;
 
